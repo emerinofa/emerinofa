@@ -1,5 +1,5 @@
 # Titulo
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola;soy+de+peru+como+estas;Full+stack+developer;Bienvenido!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Full+stack+developer;Bienvenido!)
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 Soy un ingeniero de sistemas motivado por el continuo aprendizaje de las tecnologías. Me considero una persona autodidacta, disciplinada y capaz de trabajar en equipo.
