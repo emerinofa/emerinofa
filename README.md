@@ -4,7 +4,7 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 Soy un ingeniero de sistemas motivado por el continuo aprendizaje de las tecnologías. Me considero una persona autodidacta, disciplinada y capaz de trabajar en equipo.
-Tengo más de dos años de experiencia como programador full stack, trabajando con el framework react, bases de datos relacionales PostgreSQL, Git para el control de versiones, así como el uso de metodologías ágiles como SCRUM.
+Tengo más de dos años de experiencia como programador full stack, trabajando con lenguajes de programacion como java, javascript, asi como el uso de framework como react y angular, bases de datos relacionales PostgreSQL, Git para el control de versiones, así como el uso de metodologías ágiles como SCRUM.
 Deseo Consolidarme y crecer a nivel profesional, brindándome íntegro en la institución donde laboro.
 
 Respecto al acceso a datos usualmente manejo el gestor de base de datos relacionales como PostgreSQL, sin embargo, también he trabajado con SQLServer (T-SQL) y Mysql
